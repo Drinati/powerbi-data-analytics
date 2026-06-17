@@ -129,6 +129,8 @@ Created calculated columns and measures using DAX to generate KPIs, business met
 * Performance Metrics
 
 ---
+## My Dashboard
+[Link to my Report](https://app.powerbi.com/view?r=eyJrIjoiMTFkYTI4ZjgtNWMwYS00NjQyLWJlZDktNzIyM2QzM2UxZDBjIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
 
 ## 📸 Project Screenshots
 
