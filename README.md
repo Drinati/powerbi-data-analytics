@@ -130,6 +130,25 @@ Created calculated columns and measures using DAX to generate KPIs, business met
 
 ---
 
+## 📸 Project Screenshots
+
+### 🏗️ Database Design & Relationships
+
+Designed a **normalised relational database** by identifying entities, creating tables, defining **primary** and **foreign keys**, and establishing one-to-many relationships to improve data integrity and reduce duplication.
+
+<img width="958" height="641" alt="Database Design" src="https://github.com/user-attachments/assets/7ed84d15-838a-4d67-a1db-e003d35064cc" />
+
+---
+
+### 💻 SQL Queries in MySQL Workbench
+
+Executed SQL queries using **SELECT**, **WHERE**, **ORDER BY**, and **JOINs** to retrieve, filter, and analyse data from the **Northwind** database, supporting real-world business reporting and decision-making.
+
+<img width="958" height="596" alt="image" src="https://github.com/user-attachments/assets/8a63d47b-e990-488b-84ae-30356067404c" />
+
+
+---
+
 # 🎯 Learning Outcomes
 
 Through these projects I developed practical experience in:
